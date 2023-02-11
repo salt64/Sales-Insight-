@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<!-- saved from url=(0120)https://hamzaafzalv.github.io/HamzaAfzal.github.io/?fbclid=IwAR0lu6F3VmV89gxijohpxi-RNy440oASKjmkMoyvotlI4Fn1jzGTzN5-KN4 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Hamza Afzal's Portfolio</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="./Hamza Afzal&#39;s Portfolio_files/main.css">
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<a href="https://hamzaafzalv.github.io/HamzaAfzal.github.io/index.html" class="logo"><strong>Welcome</strong> <span>to Hamza Afzal's Portfolio</span></a>
+						<nav>
+							<a href="https://drive.google.com/file/d/1QZuEFZrFK8KHAHo9N7x1PQRo0NTlpf1q/view?usp=sharing"><strong>Curriculum Vitae<strong></strong></strong></a><strong>
+						</strong></nav><strong> 
+					</strong></header><strong>
+
+				<!-- Menu -->
+					<!-- <nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="landing.html">Landing</a></li>
+							<li><a href="generic.html">Generic</a></li>
+							<li><a href="elements.html">Elements</a></li>
+						</ul>
+						<ul class="actions stacked">
+							<li><a href="#" class="button primary fit">Get Started</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul>
+					</nav> -->
+
+				<!-- Banner -->
+					<section id="banner" class="major" style="background-position: center 0px;">
+						<div class="inner">
+							<header class="major">
+								<h1>Hi, my name is Hamza.</h1>
+							</header>
+							<div class="content">
+								<p>Skilled Data Analyst with expertise in utilizing Python, SQL, Excel, and
+									 Tableau to drive data-driven insights and solutions.</p>
+								<!-- <ul class="actions">
+									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+								</ul> -->
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one" class="tiles">
+								<article style="background-image: url(&quot;images/pic01.jpg&quot;);">
+									<span class="image" style="display: none;">
+										<img src="./Hamza Afzal&#39;s Portfolio_files/pic01.jpg" alt="">
+									</span>
+									<header class="major">
+										<h3><a href="https://github.com/hamzaafzalv/SQL_Data_Cleaning_Nashville_Housing" class="link">Data Cleaning in SQL</a></h3>
+										<p>We cleaned housing data in SQL Server using SQL queries, 
+											improving its accuracy and completeness for analysis.</p>
+									</header>
+								<a href="https://github.com/hamzaafzalv/SQL_Data_Cleaning_Nashville_Housing" class="link primary"></a></article>
+								<article style="background-image: url(&quot;images/pic02.jpg&quot;);">
+									<span class="image" style="display: none;">
+										<img src="./Hamza Afzal&#39;s Portfolio_files/pic02.jpg" alt="">
+									</span>
+									<header class="major">
+										<h3><a href="https://github.com/hamzaafzalv/Covid19_Data_Exploration_with_SQL" class="link">Data Exploration with SQL</a></h3>
+										<p>I conducted data exploration of COVID-19 data using SQL, 
+											providing insights and findings on the pandemic's impact.</p>
+									</header>
+								<a href="https://github.com/hamzaafzalv/Covid19_Data_Exploration_with_SQL" class="link primary"></a></article>
+								<article style="background-image: url(&quot;images/pic03.jpg&quot;);">
+									<span class="image" style="display: none;">
+										<img src="./Hamza Afzal&#39;s Portfolio_files/pic03.jpg" alt="">
+									</span>
+									<header class="major">
+										<h3><a href="https://public.tableau.com/app/profile/hamza.afzal5165/viz/COVID-19Dashboard_16694679541020/Dashboard1?publish=yes" class="link">Covid 19 Dashboard in Tableau</a></h3>
+										<p>Created an interactive Tableau dashboard for COVID-19 data analysis,
+											 providing visual insights and easy data exploration.</p>
+									</header>
+								<a href="https://public.tableau.com/app/profile/hamza.afzal5165/viz/COVID-19Dashboard_16694679541020/Dashboard1?publish=yes" class="link primary"></a></article>
+								<article style="background-image: url(&quot;images/pic04.jpg&quot;);">
+									<span class="image" style="display: none;">
+										<img src="./Hamza Afzal&#39;s Portfolio_files/pic04.jpg" alt="">
+									</span>
+									<header class="major">
+										<h3><a href="https://public.tableau.com/app/profile/hamza.afzal5165/viz/Portfolio_Dashboard_16698153407990/Dashboard1" class="link">Customer Analysis Dashboard in Tableau</a></h3>
+										<p>Designed a Tableau dashboard for in-depth customer analysis,
+											 providing insightful visualizations and actionable insights.</p>
+									</header>
+								<a href="https://public.tableau.com/app/profile/hamza.afzal5165/viz/Portfolio_Dashboard_16698153407990/Dashboard1" class="link primary"></a></article>
+								<article style="background-image: url(&quot;images/pic05.jpg&quot;);">
+									<span class="image" style="display: none;">
+										<img src="./Hamza Afzal&#39;s Portfolio_files/pic05.jpg" alt="">
+									</span>
+									<header class="major">
+										<h3><a href="https://github.com/hamzaafzalv/Flight_Punctuality_EDA" class="link">Flight Punctuality in the UK</a></h3>
+										<p>Conducted exploratory data analysis (EDA) on Flight Punctuality in the UK using pandas, python, matplotlib, and seaborn, uncovering key trends
+											 and patterns in flight performance.</p>
+									</header>
+								<a href="https://github.com/hamzaafzalv/Flight_Punctuality_EDA" class="link primary"></a></article>
+								<article style="background-image: url(&quot;images/pic06.jpg&quot;);">
+									<span class="image" style="display: none;">
+										<img src="./Hamza Afzal&#39;s Portfolio_files/pic06.jpg" alt="">
+									</span>
+									<header class="major">
+										<h3><a href="https://github.com/hamzaafzalv/British_Airways_Data_Scrapping_EDA/blob/main/README.md" class="link">Data Scrapping and EDA for British Airways</a></h3>
+										<p>As a virtual intern at British Airways, I am utilizing my skills in data scraping and Python to collect, clean, and analyze customer reviews with the goal
+											 of gaining valuable insights into customer satisfaction.</p>
+									</header>
+								<a href="https://github.com/hamzaafzalv/British_Airways_Data_Scrapping_EDA/blob/main/README.md" class="link primary"></a></article>
+							</section>
+
+						<!-- Two
+							<section id="two">
+								<div class="inner">
+									<header class="major">
+										<h2>Massa libero</h2>
+									</header>
+									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+									<ul class="actions">
+										<li><a href="landing.html" class="button next">Get Started</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div> -->
+
+				<!-- Contact -->
+					<!-- <section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Clear" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">information@untitled.tld</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(000) 000-0000 x12387</span>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Address</h3>
+										<span>1234 Somewhere Road #5432<br />
+										Nashville, TN 00000<br />
+										United States of America</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section> -->
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://twitter.com/hamzaav1" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<!-- <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li> -->
+								<li><a href="https://github.com/hamzaafzalv" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.linkedin.com/in/hamzaafzalv/" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>© Hamza Afzal</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="./Hamza Afzal&#39;s Portfolio_files/jquery.min.js.download"></script>
+			<script src="./Hamza Afzal&#39;s Portfolio_files/jquery.scrolly.min.js.download"></script>
+			<script src="./Hamza Afzal&#39;s Portfolio_files/jquery.scrollex.min.js.download"></script>
+			<script src="./Hamza Afzal&#39;s Portfolio_files/browser.min.js.download"></script>
+			<script src="./Hamza Afzal&#39;s Portfolio_files/breakpoints.min.js.download"></script>
+			<script src="./Hamza Afzal&#39;s Portfolio_files/util.js.download"></script>
+			<script src="./Hamza Afzal&#39;s Portfolio_files/main.js.download"></script>
+
+	
+
+</strong></div></body></html>
